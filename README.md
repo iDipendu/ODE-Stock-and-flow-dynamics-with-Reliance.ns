@@ -18,3 +18,18 @@ dP/dt = M
 dM/dt = c + aP - kM  
 
 ## 📁 Structure
+
+## ▶️ How to Run
+1. Open `model.R`
+2. Run the script in R
+3. Plots will be generated automatically
+
+## 📌 Results
+- Model captures trend well  
+- Cannot capture volatility (stochastic nature)
+
+## 🔗 Report
+Full report available in `report`
+
+
+**Author:** Dipendu
